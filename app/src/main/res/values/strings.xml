@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="first_title">Cat under a white gray blanket</string>
+    <string name="first_artist">Ali Reza</string>
+    <string name="first_year">2017</string>
+
+    <string name="second_title">Mountain in winter covered with snow</string>
+    <string name="second_artist">John Lee</string>
+    <string name="second_year">2023</string>
+</resources>
